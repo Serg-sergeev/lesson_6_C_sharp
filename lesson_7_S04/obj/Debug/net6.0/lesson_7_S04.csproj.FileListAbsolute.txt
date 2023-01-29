@@ -1,0 +1,15 @@
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\bin\Debug\net6.0\lesson_7_S04.exe
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\bin\Debug\net6.0\lesson_7_S04.deps.json
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\bin\Debug\net6.0\lesson_7_S04.runtimeconfig.json
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\bin\Debug\net6.0\lesson_7_S04.dll
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\bin\Debug\net6.0\lesson_7_S04.pdb
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.csproj.AssemblyReference.cache
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.AssemblyInfoInputs.cache
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.AssemblyInfo.cs
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.csproj.CoreCompileInputs.cache
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.dll
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\refint\lesson_7_S04.dll
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.pdb
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\lesson_7_S04.genruntimeconfig.cache
+C:\Users\s.sergeev\Desktop\lesson_6_C_sharp\lesson_7_S04\obj\Debug\net6.0\ref\lesson_7_S04.dll
