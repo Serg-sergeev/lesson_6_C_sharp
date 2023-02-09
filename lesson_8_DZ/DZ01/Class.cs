@@ -71,30 +71,30 @@
 
             return resArray;
         }
-    
-        public static void SortingRowDescendingOrder(int[,] array)
+
+        public static int[,] SortingRowDescendingOrder(int[,] array)
         {
-            for (int i = 0; i < array.GetLength(0); i++)
+            int columnsLong = array.GetLength(1);
+            int rowLong = array.GetLength(0);
+
+            for (int i = 0; i < rowLong; i++)
             {
-                for (int j = 0; j < array.GetLength(1); j++)
+
+                for (int j = 0; j < columnsLong - 1; )
                 {
-                    int temp = min = array[i, j];
                     
-                    for (int count = 0; count < array.GetLength(1) - 1; count++)
+                    if (array[i, j] < array[i, j + 1])
                     {
-                        if (array[i + 1, j + 1] < array[i, j])
-                        {
-                            if (count == array.GetLength(1) - 2) break;
-                            min = array[i + 1, j + 1];
-                        }
+                        int temp = array[i, j];
+                        array[i, j] = array[i, j + 1];
+                        array[i, j + 1] = temp;
+                        j = 0;
                     }
-                    
-                    if (array[i + 1, j + 1] > array[i, j])
-                    {
-                        
-                    }
+                    else j++;
                 }
             }
+
+            return array;
         }
     }
 }

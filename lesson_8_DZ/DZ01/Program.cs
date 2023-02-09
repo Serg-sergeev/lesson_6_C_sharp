@@ -7,3 +7,7 @@ int columns = UserInput.GetUserNumber("Введити количество ст�
 
 int[,] array = ActionsWithArrays.GetRandomArray(row, columns);
 ActionsWithArrays.PrintArrayIJ(array);
+
+Console.WriteLine();
+array = ActionsWithArrays.SortingRowDescendingOrder(array);
+ActionsWithArrays.PrintArrayIJ(array);
